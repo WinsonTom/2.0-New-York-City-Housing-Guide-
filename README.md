@@ -9,4 +9,17 @@ In my original I was emphasizing how location is the primary factor determining 
 Specific problem this project answers:
 **“I want to buy a personal residence in NYC, but I don’t know anything about NYC neighborhoods. What property is right for me?” - Buyers**
 
+Instructions:
+- Click into Scripts & Data to explore each step of the project. **Click the README within each to learn more.**
+- 1.0 demonstrates how the data was cleaned from its original state to its revised state
+- 2.0 adds the perceptions of the neighborhood and then combining it into the primary data set.
+- 3.0 goes through two transformations to group zipcodes and neighborhoods. Then using the neighborhoods to identify safety ratings.
+- 4.0 uses the longitude and latitude to find the distance from Midtown.
+- 5.0 continues to revise neighborhoods by narrowing down neighborhoods, then identifying the population, the square miles, and therefore the population density.
+- 6.0 creates relevant visualizations through Python.
+- 7.0 is the final deliverable the client should receive. 
+
+Final Tableau Dashboard:
+https://public.tableau.com/shared/T88RW8DBS?:display_count=n&:origin=viz_share_link
+
 
