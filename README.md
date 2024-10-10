@@ -22,7 +22,9 @@ Specific problem this project answers:
 ### Instructions:
 
 - Click into Scripts & Data.
-- ***Click the README*** . Readme details the start point, data analysis steps taken , and ending results.
+- Open any folder from 1.0 to 6.0
+- ***Click the README*** within each of the folders. Readme contains the start point, data analysis steps taken , and ending results.
+- Take away the information from 7.0
 
 **Contents**:  
 - 1.0 demonstrates how the data was cleaned from its original state to its revised state
