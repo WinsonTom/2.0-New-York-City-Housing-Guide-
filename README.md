@@ -37,18 +37,12 @@ Contents:
 	- Check for null values
 	- Check for missing values
 	- Remove null values
+ 	- Identify outliers
+	- Correct outliers/incorrect information
 	- Creating separate Data-frames
 	- Identify correlations
-	- Create HeatMap visual
-	- Export HeatMap visual
-	- Identify independent / dependent variables to create scatterplot
-	- Create scatterplots
-	- Identify outliers
-	- Correct outliers/incorrect information
-	- Load GeoJson Files
-	- Aggregating data
-	- Extracting averages from aggregated data
-	- Create histograms
+	- Create visuals, Heat Maps, Scatter plots, histograms, folium maps
+	- Loading GeoJson Files
 	- Create folium map
 	- Prepare data for regression analysis
 	- Create test set
@@ -66,5 +60,19 @@ Contents:
 	- Add pricing range column
 	- Export finalized cleaned wrangled data
 
-##Excel Usage:
--
+## Excel Usage:
+- Sorting & Filtering data
+- Individual revisions when errors are identified
+- Finding Medians of each Borough's population density
+- Distance between two points, longitude + latitude calculations
+- Population Density
+
+## Tableau Usage:
+- Connecting raw data 
+- Creating sheets using measures and dimensions
+- Appropriate use of filters
+- Differentiating through use of colors
+- Various use of visuals
+- Creating Dashboards
+- Storytelling
+- Optimizing home buyer's search process on tangible variables impacting daily life
