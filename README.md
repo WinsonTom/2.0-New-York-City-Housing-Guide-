@@ -1,4 +1,5 @@
-# 2.0-New-York-City-Housing-Guide-
+# NYC Housing Guide 2.0
+
 **NYC Housing 2.0 - Final Tableau Dashboard: https://public.tableau.com/shared/2PB4H57BQ?:display_count=n&:origin=viz_share_link**
 **Youtube Video explaining Dashboard: https://youtu.be/CpnRrUZJtOY?si=XHDLLInriJNQXc-W**
 
