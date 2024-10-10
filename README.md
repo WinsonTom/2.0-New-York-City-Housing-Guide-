@@ -1,5 +1,9 @@
 # 2.0-New-York-City-Housing-Guide-
-** Revisions from the original project. https://github.com/WinsonTom/New-York-City-Housing-Guide
+**NYC Housing 2.0 - Final Tableau Dashboard: https://public.tableau.com/shared/2PB4H57BQ?:display_count=n&:origin=viz_share_link**
+**Youtube Video explaining Dashboard: https://youtu.be/CpnRrUZJtOY?si=XHDLLInriJNQXc-W**
+
+
+Revisions from the original project. https://github.com/WinsonTom/New-York-City-Housing-Guide
 
 How is this different from my original project in : https://public.tableau.com/app/profile/winson.tom/viz/NewYorkCityHousingGuideFinal/Story1
 
@@ -7,8 +11,6 @@ In my original I was emphasizing how location is the primary factor determining 
 
 Specific problem this project answers:
 **“I want to buy a personal residence in NYC, but I don’t know anything about NYC neighborhoods. What property is right for me?” - Buyers**
-
-**Explore NYC Housing 2.0 - Final Tableau Dashboard: https://public.tableau.com/shared/2PB4H57BQ?:display_count=n&:origin=viz_share_link**
 
 Instructions:
 
