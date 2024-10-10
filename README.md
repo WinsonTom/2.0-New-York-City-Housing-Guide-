@@ -34,40 +34,40 @@ Specific problem this project answers:
 - 7.0 is the final deliverable the client should receive. 
 
 **Python Usage:**
-	- Loading Large Datasets
-	- Dropping Duplicates
-	- Removing unnecessary columns
-	- Renaming columns
-	- Condensing information within columns
-	- Splitting column information
-	- Identifying data types
-	- Calculating counts of variables
-	- Add in neighborhood column for further identification
-	- Check for null values
-	- Check for missing values
-	- Remove null values
- 	- Identify outliers
-	- Correct outliers/incorrect information
-	- Creating separate Data-frames
-	- Identify correlations
-	- Create visuals, Heat Maps, Scatter plots, histograms, folium maps
-	- Loading GeoJson Files
-	- Create folium map
-	- Prepare data for regression analysis
-	- Create test set
-	- Regression analysis
-	- Identify slope, mean squared error, R2 score
-	- Create training set
-	- Plot training set
-	- Plot elbow curve
-	- Create clusters
-	- Aggregate cluster data
-	- Load Quandl data
-	- Time Series Analysis to identify decomposition 
-	- Add in Flag - Neighborhood safety rating
-	- Fill values with Niche.com data 
-	- Add pricing range column
-	- Export finalized cleaned wrangled data
+- Loading Large Datasets
+- Dropping Duplicates
+- Removing unnecessary columns
+- Renaming columns
+- Condensing information within columns
+- Splitting column information
+- Identifying data types
+- Calculating counts of variables
+- Add in neighborhood column for further identification
+- Check for null values
+- Check for missing values
+- Remove null values
+- Identify outliers
+- Correct outliers/incorrect information
+- Creating separate Data-frames
+- Identify correlations
+- Create visuals, Heat Maps, Scatter plots, histograms, folium maps
+- Loading GeoJson Files
+- Create folium map
+- Prepare data for regression analysis
+- Create test set
+- Regression analysis
+- Identify slope, mean squared error, R2 score
+- Create training set
+- Plot training set
+- Plot elbow curve
+- Create clusters
+- Aggregate cluster data
+- Load Quandl data
+- Time Series Analysis to identify decomposition 
+- Add in Flag - Neighborhood safety rating
+- Fill values with Niche.com data 
+- Add pricing range column
+- Export finalized cleaned wrangled data
 
 **Excel Usage:**
 - Sorting & Filtering data
