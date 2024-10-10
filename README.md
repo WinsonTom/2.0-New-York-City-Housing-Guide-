@@ -1,8 +1,10 @@
 # NYC Housing Guide 2.0
 
+## Deliverables:
+
 **NYC Housing 2.0 - Final Tableau Dashboard: https://public.tableau.com/shared/2PB4H57BQ?:display_count=n&:origin=viz_share_link**
 **Youtube Video explaining Dashboard: https://youtu.be/CpnRrUZJtOY?si=XHDLLInriJNQXc-W**
-
+**Data: https://github.com/WinsonTom/2.0-New-York-City-Housing-Guide-/tree/main/Scripts%20%26%20Data/7.0%20Deliverable**
 
 Revisions from the original project. https://github.com/WinsonTom/New-York-City-Housing-Guide
 
