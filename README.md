@@ -3,8 +3,12 @@
 ## Deliverables:
 
 **NYC Housing 2.0 - Final Tableau Dashboard: https://public.tableau.com/shared/2PB4H57BQ?:display_count=n&:origin=viz_share_link**
+
 **Youtube Video explaining Dashboard: https://youtu.be/CpnRrUZJtOY?si=XHDLLInriJNQXc-W**
+
 **Data: https://github.com/WinsonTom/2.0-New-York-City-Housing-Guide-/tree/main/Scripts%20%26%20Data/7.0%20Deliverable**
+
+### Differences from Original Project- NYC Housing Guide 1.0:
 
 Revisions from the original project. https://github.com/WinsonTom/New-York-City-Housing-Guide
 
@@ -15,12 +19,12 @@ In my original I was emphasizing how location is the primary factor determining 
 Specific problem this project answers:
 **“I want to buy a personal residence in NYC, but I don’t know anything about NYC neighborhoods. What property is right for me?” - Buyers**
 
-Instructions:
+### Instructions:
 
 - Click into Scripts & Data.
 - ***Click the README*** . Readme details the start point, data analysis steps taken , and ending results.
 
-Contents:  
+**Contents**:  
 - 1.0 demonstrates how the data was cleaned from its original state to its revised state
 - 2.0 adds the perceptions of the neighborhood and then combining it into the primary data set.
 - 3.0 goes through two transformations to group zipcodes and neighborhoods. Then using the neighborhoods to identify safety ratings.
@@ -29,7 +33,7 @@ Contents:
 - 6.0 creates relevant visualizations through Python.
 - 7.0 is the final deliverable the client should receive. 
 
-## Python Usage:
+**Python Usage:**
 	- Loading Large Datasets
 	- Dropping Duplicates
 	- Removing unnecessary columns
@@ -65,14 +69,14 @@ Contents:
 	- Add pricing range column
 	- Export finalized cleaned wrangled data
 
-## Excel Usage:
+**Excel Usage:**
 - Sorting & Filtering data
 - Individual revisions when errors are identified
 - Finding Medians of each Borough's population density
 - Distance between two points, longitude + latitude calculations
 - Population Density
 
-## Tableau Usage:
+**Tableau Usage:**
 - Connecting raw data 
 - Creating sheets using measures and dimensions
 - Appropriate use of filters
