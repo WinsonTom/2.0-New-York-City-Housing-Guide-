@@ -2,7 +2,7 @@
 
 ## Deliverables:
 
-**NYC Housing 2.0 - Final Tableau Dashboard: https://public.tableau.com/shared/2PB4H57BQ?:display_count=n&:origin=viz_share_link**
+**NYC Housing 2.0 - Final Tableau Dashboard: [https://public.tableau.com/shared/2PB4H57BQ?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NYCHousing2_0/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 **Youtube Video explaining Dashboard: https://youtu.be/CpnRrUZJtOY?si=XHDLLInriJNQXc-W**
 
